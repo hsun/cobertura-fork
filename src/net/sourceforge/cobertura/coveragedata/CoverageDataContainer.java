@@ -112,8 +112,12 @@ public abstract class CoverageDataContainer
 			while (iter.hasNext())
 			{
 				CoverageData coverageContainer = iter.next();
-				number += coverageContainer.getNumberOfValidBranches();
-				numberCovered += coverageContainer.getNumberOfCoveredBranches();
+				if ((coverageContainer instanceof LineData) && shouldLineBeIgnored((LineData)coverageContainer)) {
+				    // ignore this line
+				} else {
+				    number += coverageContainer.getNumberOfValidBranches();
+				    numberCovered += coverageContainer.getNumberOfCoveredBranches();
+				}
 			}
 		}
 		finally
@@ -126,6 +130,13 @@ public abstract class CoverageDataContainer
 			return 1d;
 		}
 		return (double)numberCovered / number;
+	}
+	
+	/* for some reason, the source line "ignored" from instrumenting still exists in the class data. 
+	 * However, the method name is empty 
+	 */
+	private boolean shouldLineBeIgnored(LineData ld) {
+	   return ld.getMethodName() == null || "".equals(ld.getMethodName()); 
 	}
 
 	/**
