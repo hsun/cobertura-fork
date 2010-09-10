@@ -1,52 +1,0 @@
-8
-
-dir
-732
-https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/test/net/sourceforge/cobertura
-https://cobertura.svn.sourceforge.net/svnroot/cobertura
-
-
-
-2010-03-03T19:12:59.822350Z
-719
-lewijw
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-3373f243-8d0f-0410-a8fe-cd033897b1b5
-
-merge
-dir
-
-test
-dir
-
-ant
-dir
-
-coveragedata
-dir
-
-thread
-dir
-
-reporting
-dir
-
-util
-dir
-
-webapp
-dir
-

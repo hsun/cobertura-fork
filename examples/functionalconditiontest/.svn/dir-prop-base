@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 43
-cobertura.ser
-instrumented
-reports
-classes
-
-END
