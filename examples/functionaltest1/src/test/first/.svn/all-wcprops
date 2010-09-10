@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first/Test.java
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first/A.java
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first/B.java
+END
+RemoteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first/RemoteListener.java
+END
+RemoteInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/functionaltest1/src/test/first/RemoteInterface.java
+END

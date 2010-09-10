@@ -1,0 +1,54 @@
+8
+
+dir
+732
+https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/src/net/sourceforge/cobertura/coveragedata/countermaps
+https://cobertura.svn.sourceforge.net/svnroot/cobertura
+
+
+
+2010-02-15T16:18:42.615283Z
+698
+lewijw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3373f243-8d0f-0410-a8fe-cd033897b1b5
+
+AtomicCounterMap.java
+file
+
+
+
+
+2010-09-10T19:54:14.000000Z
+9dd1eb277f0abe999de965ac846c3faa
+2010-02-15T16:18:42.615283Z
+698
+lewijw
+has-props
+
+CounterMap.java
+file
+
+
+
+
+2010-09-10T19:54:14.000000Z
+0c1e30d52a1d5b365703707838a210d4
+2010-02-12T16:24:19.706464Z
+691
+lewijw
+has-props
+

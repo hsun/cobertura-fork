@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 51
+classes
+cobertura.ser
+coverage
+instrumented
+reports
+END

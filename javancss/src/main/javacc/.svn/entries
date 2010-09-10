@@ -1,0 +1,60 @@
+8
+
+dir
+732
+https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/javancss/src/main/javacc
+https://cobertura.svn.sourceforge.net/svnroot/cobertura
+
+
+
+2010-02-15T20:14:37.965098Z
+704
+lewijw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3373f243-8d0f-0410-a8fe-cd033897b1b5
+
+JavaParserInterface.java
+file
+
+
+
+
+2010-09-10T19:54:24.000000Z
+76cf20534dd43121cb1b6484e3118361
+2009-09-04T01:08:43.370328Z
+674
+lewijw
+has-props
+
+Java1.1.jj
+file
+
+
+
+
+2010-09-10T19:54:24.000000Z
+d57917638a4f3a9a60c99888946bff6d
+2010-02-15T20:14:37.965098Z
+704
+lewijw
+has-props
+
+debug
+dir
+
+java15
+dir
+

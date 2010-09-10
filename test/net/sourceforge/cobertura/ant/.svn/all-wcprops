@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/ant
+END
+FunctionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/ant/FunctionalTest.java
+END
+FunctionalConditionCoverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/ant/FunctionalConditionCoverageTest.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/ant/Util.java
+END

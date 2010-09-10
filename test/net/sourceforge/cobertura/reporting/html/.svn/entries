@@ -1,0 +1,44 @@
+8
+
+dir
+732
+https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/html
+https://cobertura.svn.sourceforge.net/svnroot/cobertura
+
+
+
+2006-03-27T20:47:35.844393Z
+422
+TheKingAnt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3373f243-8d0f-0410-a8fe-cd033897b1b5
+
+files
+dir
+
+JavaToHtmlTest.java
+file
+
+
+
+
+2010-09-10T19:54:14.000000Z
+38a009e0deb7dafbd21c7b22df30c7ec
+2005-05-25T20:20:46.000000Z
+208
+thekingant
+has-props
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/basic
+END
+build_with_specific_data_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/basic/build_with_specific_data_file.xml
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/basic/build.properties
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/basic/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/examples/basic/build.xml
+END

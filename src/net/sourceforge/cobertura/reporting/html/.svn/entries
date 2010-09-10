@@ -1,0 +1,70 @@
+8
+
+dir
+732
+https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/src/net/sourceforge/cobertura/reporting/html
+https://cobertura.svn.sourceforge.net/svnroot/cobertura
+
+
+
+2010-02-15T16:51:51.409598Z
+700
+lewijw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3373f243-8d0f-0410-a8fe-cd033897b1b5
+
+HTMLReport.java
+file
+
+
+
+
+2010-09-10T19:54:15.000000Z
+90b0455d4f5a584e97c21fe2d80ff0a6
+2010-02-15T16:51:51.409598Z
+700
+lewijw
+has-props
+
+files
+dir
+
+JavaToHtml.java
+file
+
+
+
+
+2010-09-10T19:54:15.000000Z
+c37ef4adecf568003018192ff7c0c7d7
+2005-08-02T17:49:06.000000Z
+255
+thekingant
+has-props
+
+SourceFileDataBaseNameComparator.java
+file
+
+
+
+
+2010-09-10T19:54:15.000000Z
+d0297404136952b92e8950f319953904
+2006-03-17T20:04:46.000000Z
+383
+thekingant
+has-props
+

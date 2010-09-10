@@ -1,0 +1,70 @@
+8
+
+dir
+732
+https://cobertura.svn.sourceforge.net/svnroot/cobertura/tags/v1_9_4_1/examples/functionalconditiontest
+https://cobertura.svn.sourceforge.net/svnroot/cobertura
+
+
+
+2007-05-10T21:33:30.249260Z
+492
+lewijw
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3373f243-8d0f-0410-a8fe-cd033897b1b5
+
+src
+dir
+
+build.properties
+file
+
+
+
+
+2010-09-10T19:54:26.000000Z
+75d4cee851b6adad0840d149d1b4a525
+2007-05-10T21:30:30.569867Z
+489
+lewijw
+has-props
+
+README
+file
+
+
+
+
+2010-09-10T19:54:26.000000Z
+70076378761b7c8c2b167467e9d474be
+2007-05-10T21:30:30.569867Z
+489
+lewijw
+has-props
+
+build.xml
+file
+
+
+
+
+2010-09-10T19:54:26.000000Z
+4f1803b80654a154c56ad489644b4a86
+2007-05-10T21:30:30.569867Z
+489
+lewijw
+has-props
+

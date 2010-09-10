@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting
+END
+JUnitXMLParserErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/JUnitXMLParserErrorHandler.java
+END
+JUnitXMLParserEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/JUnitXMLParserEntityResolver.java
+END
+ComplexityCalculatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/ComplexityCalculatorTest.java
+END
+JUnitXMLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/JUnitXMLHelper.java
+END
+ComplexityCalculator2Test.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/test/net/sourceforge/cobertura/reporting/ComplexityCalculator2Test.groovy
+END

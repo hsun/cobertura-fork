@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc
+END
+tasks.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc/tasks.properties
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc/plugin.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc/log4j.properties
+END
+jalopy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc/jalopy.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cobertura/!svn/ver/721/tags/v1_9_4_1/etc/plugin.xml
+END
